@@ -1,0 +1,16 @@
+﻿<Application x:Class="WPFVsCode_Demo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFVsCode_Demo"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/WPFVsCode;component/Styles/Styles.ScrollViewer.List.xaml"/>
+                <ResourceDictionary Source="/WPFVsCode;component/Styles/Styles.ScrollViewer.Menu.xaml"/>
+                <ResourceDictionary Source="/WPFVsCode;component/Styles/Styles.TreeViewer.xaml"/>
+                <ResourceDictionary Source="/WPFVsCode;component/Styles/Styles.VerticalMenu.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

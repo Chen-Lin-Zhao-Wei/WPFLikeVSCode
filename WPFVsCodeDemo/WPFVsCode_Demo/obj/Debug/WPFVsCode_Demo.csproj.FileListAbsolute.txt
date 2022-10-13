@@ -1,0 +1,17 @@
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\bin\Debug\WPFVsCode_Demo.exe.config
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\bin\Debug\WPFVsCode_Demo.exe
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\bin\Debug\WPFVsCode_Demo.pdb
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\bin\Debug\WPFVsCode.dll
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\bin\Debug\WPFVsCode.pdb
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo.csprojResolveAssemblyReference.cache
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\MainWindow.g.cs
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\App.g.cs
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo_MarkupCompile.cache
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo_MarkupCompile.lref
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\App.baml
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\MainWindow.baml
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo.g.resources
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo.Properties.Resources.resources
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo.csproj.GenerateResource.Cache
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo.exe
+C:\Users\ISaints\Desktop\WPFVsCodeDemo\WPFVsCode_Demo\obj\Debug\WPFVsCode_Demo.pdb
